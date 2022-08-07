@@ -23,7 +23,7 @@ public class SortArray {
         System.out.println();
     }
 
-    public static void printArray(String[] array) {
+    public static void printArray(String[] array "CHANGE 3") {
         for (String item : array) {
             System.out.print(item + " ");
         }
