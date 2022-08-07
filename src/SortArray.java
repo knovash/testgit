@@ -3,6 +3,8 @@ public class SortArray {
 
 
         /// NEW NEW
+        // OTHER HUMAN CREATED NEWHUMAN CLASS
+
 
         if (args.length > 0) {
             System.out.println("Array from Args ogitf " + args.length +" elements:");
