@@ -1,7 +1,11 @@
 public class SortArray {
     public static void main(String[] args) {
+
+
+        /// NEW NEW
+
         if (args.length > 0) {
-            System.out.println("Array from Args of " + args.length +" elements:");
+            System.out.println("Array from Args ogitf " + args.length +" elements:");
             printArray(args);   // Print String array
             System.out.println("Sorted array: CHANGE IN FILE ");
             printArray(sortIntArray(strArrayToIntArray(args)));
