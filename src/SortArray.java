@@ -15,6 +15,7 @@ public class SortArray {
         }
     }
 
+// CHANGE FOR NEW BRANCH
     public static void printArray(int[] array) {
         for (int item : array) {
             System.out.print(item + " ");
