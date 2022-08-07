@@ -3,11 +3,11 @@ public class SortArray {
         if (args.length > 0) {
             System.out.println("Array from Args of " + args.length +" elements:");
             printArray(args);   // Print String array
-            System.out.println("Sorted array:");
+            System.out.println("Sorted array: CHANGE IN FILE ");
             printArray(sortIntArray(strArrayToIntArray(args)));
         }
         else{
-            System.out.println("Default array.");
+            System.out.println("Default array.CHANGE IN FILE ");
             int[] array = {3, 7, 1, 9, 2};
             printArray(array);  // Print int array
             System.out.println("Sorted array:");
