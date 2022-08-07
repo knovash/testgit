@@ -1,5 +1,10 @@
 public class SortArray {
     public static void main(String[] args) {
+
+
+        // OTHER HUMAN CREATED NEWHUMAN CLASS
+
+
         if (args.length > 0) {
             System.out.println("Array from Args of " + args.length +" elements:");
             printArray(args);   // Print String array
